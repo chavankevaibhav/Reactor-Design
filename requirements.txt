@@ -3,4 +3,6 @@ streamlit
 numpy
 scipy
 matplotlib
-streamlit
+pandas
+fpdf
+kaleido
