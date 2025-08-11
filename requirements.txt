@@ -6,3 +6,4 @@ matplotlib
 pandas
 fpdf2
 kaleido
+openpyxl
